@@ -1,0 +1,33 @@
+{
+	"Name": "Blue Ghost Test",
+	
+	"Spacecraft Mass": 1400,
+  "Moment of Inertia": 1360,
+
+	"Thrusters": [
+    {
+      "x Position": 1.5,
+      "y Position": 0.2,
+      "Thrust": 3200,
+      "Throttle Range": [1, 1]
+    },
+    { 
+      "x Position": 0,
+      "y Position": 0.2,
+      "Thrust": 3200,
+      "Throttle Range": [1, 1]
+    },
+    {
+      "x Position": 0,
+      "y Position": 0.2,
+      "Thrust": 3200,
+      "Throttle Range": [1, 1]
+    },
+    {
+      "x Position": -1.5,
+      "y Position": 0.2,
+      "Thrust": 3200,
+      "Throttle Range": [1, 1]
+    }
+  ]
+}
